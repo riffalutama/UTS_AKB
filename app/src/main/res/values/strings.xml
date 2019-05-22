@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS-AKB-AKB13-10116652</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Loading_App">Loading App</string>
+    <string name="todo">TODO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="email">riffalutama@email.unikom.ac.id</string>
+    <string name="name">Riffal Utama</string>
+</resources>
